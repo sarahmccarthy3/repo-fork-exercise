@@ -2,6 +2,8 @@
 
 This is a temporary repository for practicing fork and pull request.
 
+#Hi this is Weijia
+
 Zhi Li: hello, world!
 
 Nev Gedikoglu: Hello, Professor!!
@@ -31,3 +33,4 @@ Shaylin Segura: It's Me
 Neha Muppidi
 
 Susanna D.: hello, world!
+
